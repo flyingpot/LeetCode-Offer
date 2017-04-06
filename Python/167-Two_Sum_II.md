@@ -1,5 +1,6 @@
 简单，有序数组，使用双指针，注意根据题意返回的是indice加一。跟下面的比，我的代码写的太丑了。。。
 
+答案：
 ```Python
 # two-pointer
 def twoSum1(self, numbers, target):
@@ -23,7 +24,7 @@ def twoSum2(self, numbers, target):
 
 # binary search        
 def twoSum(self, numbers, target):
-    for i in xrange(len(numbers)):
+    for i in xrange(len(numbers)):#注意Python3中已经没有xrange，Python3中的range就是Python2的xrange
         l, r = i+1, len(numbers)-1
         tmp = target - numbers[i]
         while l <= r:
