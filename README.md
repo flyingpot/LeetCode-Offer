@@ -8,8 +8,10 @@
 
 ## 题目
 
-[1-Two_Sum](./Python/1-Two_Sum.md)
-[167-Two_Sum_II](./Python/167-Two_Sum_II.md)
-[15-3Sum](./Python/15-3Sum.md)
-[16-3Sum_Closest](./Python/16-3Sum_Closest.md)
-[18-4Sum](./Python/18-4Sum.md)
+Problems | Difficulty
+------- | --------
+[1-Two_Sum](./Python/1-Two_Sum.md) | Easy
+[167-Two_Sum_II](./Python/167-Two_Sum_II.md) | Medium
+[15-3Sum](./Python/15-3Sum.md) | Medium
+[16-3Sum_Closest](./Python/16-3Sum_Closest.md) | Medium
+[18-4Sum](./Python/18-4Sum.md) | Medium
